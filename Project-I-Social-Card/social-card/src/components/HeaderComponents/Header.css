@@ -1,1 +1,32 @@
 /* All styles for your header Components live here */
+
+.header-container {
+    margin-top: 14px;
+    display: flex;
+}
+
+.logo-img {
+    height: auto;
+    width: 49px;
+    margin: 14px 10px 0px 10px;
+    align-self: flex-start;
+}
+
+.title h1 {
+    display: inline-block;
+}
+
+.title h3 {
+    font-size: 14px;
+    color: grey;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.title-text {
+    width: 600px;
+    margin-top: 6px;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    line-height: 18.8px
+}

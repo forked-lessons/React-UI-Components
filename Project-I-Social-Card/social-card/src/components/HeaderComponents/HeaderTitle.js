@@ -6,9 +6,9 @@ import './Header.css';
 
 function HeaderTitle() {
     return (
-        <div>
+        <div className='title'>
             <h1>Lambda School!</h1>
-            <h2>@LambdaSchool 26 Jan</h2>
+            <h3>@LambdaSchool 26 Jan</h3>
         </div>
     );
 };

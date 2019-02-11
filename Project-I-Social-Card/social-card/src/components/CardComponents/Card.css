@@ -1,1 +1,29 @@
 /* All styles for your Card Components live here */
+
+.bg-img {
+    height: auto;
+    width: 600px;
+}
+
+.card-img {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bottom-content {
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    overflow: hidden;
+    padding-bottom: 10px;
+    width: 600px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-container a {
+    text-decoration: none;
+    color: black;
+}
